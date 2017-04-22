@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MafiaLottery</string>
+    <string name="players_cnt_label">تعداد کل بازیکنان به غیر از گاد:</string>
+    <string name="mafia_cnt_label">تعداد مافیا</string>
+    <string name="citizen_cnt_label">تعداد شهروند</string>
+    <string name="other_roles_label">نقش های دیگر اضافه بر مافیا و شهروند:</string>
+    <string name="dialog_newrole_posbtn">اضافه کردن نقش</string>
+    <string name="dialog_newrole_negbtn">لغو</string>
+    <string name="dialog_newrole_errormsg_fill">فیلد خالی است</string>
+    <string name="dialog_newrole_errormsg_existed">نقش قبلا انتخاب شده</string>
+    <string name="dialog_newrole_success">نقش اضافه شد</string>
+    <string name="lottery_wait_state_msg">روی من بزن تا نقشت رو ببینی!</string>
+    <string name="lottery_seen_state_msg">نقشت رو که دیدی بزن رو من و بده بغلی !!</string>
+    <string name="lottery_end_state_msg">بازی هنرمندانه ای داشته باشید! بزن رو من تا دوباره قرعه کشی کنم</string>
+</resources>
